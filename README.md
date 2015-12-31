@@ -1,0 +1,2 @@
+# Watamote-Spin
+Loop & Loop
